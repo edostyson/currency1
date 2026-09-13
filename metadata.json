@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Currency Converter",
+  "description": "A modern currency converter application that uses the Gemini API to fetch real-time exchange rates. It features a clean interface, currency swapping, and a history of recent conversions.",
+  "requestFramePermissions": []
+}
